@@ -1,0 +1,5 @@
+In my submission I have chosen to use AI assistance as a tool for explanation and review. 
+
+I initially used AI to help me create a quick overview of the CodeToReview.cs file, so when I inspect the code myself, I have a better understanding of its overall logic and intended behaviour.
+During my personal review of the code, I used AI to briefly explain concepts and syntax that I was unfamiliar with, such as the usage of IEnumerable and XML.
+After completing my code review, I submitted selected sections of my personal work to AI for feedback and refinement, such as "return _people; // This returns the internal state, subjecting the private list to potential external modification.".
